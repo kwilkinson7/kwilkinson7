@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text]((https://github.com/kwilkinson7/kwilkinson7/blob/main/robots.jpg)
+![alt text](https://github.com/kwilkinson7/kwilkinson7/blob/main/robots.jpg)
 <!--
 
 
